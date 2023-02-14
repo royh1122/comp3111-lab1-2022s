@@ -1,4 +1,4 @@
 I Wei Huang
 20824074
 
-![image](git history.png)
+![image](/assets/images/git history.png)
